@@ -1,0 +1,22 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "everyday testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidsgithub/testing-KCD.git"
+  },
+  "author": "siddharth pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidsgithub/testing-KCD/issues"
+  },
+  "homepage": "https://github.com/sidsgithub/testing-KCD#readme",
+  "devDependencies": {
+    "jest": "^27.0.1"
+  }
+}
